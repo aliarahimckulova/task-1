@@ -1,0 +1,8 @@
+{ "products" : [
+  { "Name": "Пицца", "Price" : 2.50, "Location": "Пиццерия"},
+  { "Name": "Кексы", "Price" : 3, "Location": "Холодильник"},
+  { "Name": "Соки", "Price" : 4, "Location": "Холодильник"},
+  { "Name": "Шоколад", "Price" : 1.50, "Location": "Шкаф"},
+  { "Name": "Мука", "Price" : 1.50, "Location": "Шкаф"},
+  { "Name": "Орехи", "Price" : 3, "Location": "Прилавок"}
+]}
